@@ -1,0 +1,28 @@
+.App {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  margin: 1px;
+  width: auto;
+  align-items: center;
+  margin: 5px auto;
+}
+img {
+  width: 400px;
+  height: 270px;
+  margin: 5px auto;
+  border-radius: 10px;
+}
+
+h4 {
+  margin: 5px;
+  border: 1px solid red;
+}
+.card {
+  width: 400px;
+  /* border: 2px solid black; */
+  margin: 5px auto;
+  margin: 10px;
+  border-radius: 17px;
+  padding: 5px;
+}
